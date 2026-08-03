@@ -53,6 +53,19 @@ Runs on http://localhost:3000
 
 ---
 
+## Postman Collection
+
+File: `people-hub.postman_collection.json` is included in the repo.
+
+To use it:
+1. Open Postman
+2. Click **Import** (top left)
+3. Select the file `people-hub.postman_collection.json`
+4. All requests will load under a collection called **People Hub API**
+5. The base URL is already set to `http://localhost:3000` — just start the server and hit Send
+
+---
+
 ## Filters for GET /employees
 
 ```
